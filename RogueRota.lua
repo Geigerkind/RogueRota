@@ -12,7 +12,7 @@ RogueRota.f:SetScript("OnEvent", function(self, event)
 	end
 	RogueRota.Energy = UnitMana("player")
 end)
-if GetLocale() = "deDE" then
+if GetLocale() == "deDE" then
 	RogueRota.name = {
 		[1] = "Zerhäckseln",
 		[2] = "Erdschlag",
