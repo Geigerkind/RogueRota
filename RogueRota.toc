@@ -1,0 +1,9 @@
+## Interface: 10900
+## Title: RogueRota |cFFFF8080-Shino-|r
+## Title-deDE: RogueRota |cFFFF8080-Shino-|r
+## Notes: RogueRota provides an function to make the rogue a "One-Button-Class"
+## Notes-deDE: [TO BE EDITED]
+## Author: Shino <Synced> - Kronos
+## Version: 0.1
+
+RogueRota.lua
